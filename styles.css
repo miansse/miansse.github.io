@@ -1,0 +1,163 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "du-icons";
+  src:url("fonts/du-icons.eot");
+  src:url("fonts/du-icons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/du-icons.woff") format("woff"),
+    url("fonts/du-icons.ttf") format("truetype"),
+    url("fonts/du-icons.svg#du-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "du-icons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "du-icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons-font-du-epand-01:before {
+  content: "a";
+}
+.icon-icons-font-du-epand-02:before {
+  content: "b";
+}
+.icon-icons-font-du-epand-03:before {
+  content: "c";
+}
+.icon-icons-font-du-epand-04:before {
+  content: "d";
+}
+.icon-icons-font-du-epand-06:before {
+  content: "e";
+}
+.icon-icons-font-du-epand-07:before {
+  content: "f";
+}
+.icon-icons-font-du-epand-08:before {
+  content: "g";
+}
+.icon-icons-font-du-epand-09:before {
+  content: "h";
+}
+.icon-icons-font-du-epand-11:before {
+  content: "i";
+}
+.icon-icons-font-du-epand-12:before {
+  content: "j";
+}
+.icon-icons-font-du-epand-14:before {
+  content: "l";
+}
+.icon-icons-font-du-epand-16:before {
+  content: "m";
+}
+.icon-icons-font-du-epand-18:before {
+  content: "n";
+}
+.icon-icons-font-du-epand-19:before {
+  content: "o";
+}
+.icon-icons-font-du-epand-21:before {
+  content: "p";
+}
+.icon-icons-font-du-epand-22:before {
+  content: "q";
+}
+.icon-icons-font-du-epand-23:before {
+  content: "r";
+}
+.icon-icons-font-du-epand-24:before {
+  content: "s";
+}
+.icon-document-upload-icons-2-id-back:before {
+  content: "t";
+}
+.icon-document-upload-icons-2-id-frront:before {
+  content: "u";
+}
+.icon-document-upload-icons-2-utililty-bill:before {
+  content: "v";
+}
+.icon-document-upload-icons-2-visa-back:before {
+  content: "w";
+}
+.icon-document-upload-icons-2-visa-front:before {
+  content: "x";
+}
+.icon-icons-font-du-epand-13-1:before {
+  content: "z";
+}
+.icon-passport:before {
+  content: "k";
+}
+.icon-inverse-id-fe:before {
+  content: "A";
+}
+.icon-inverse-id-fe-2:before {
+  content: "B";
+}
+.icon-driver-license:before {
+  content: "y";
+}
+.icon-load:before {
+  content: "C";
+}
+.icon-document-upload-icons-2-id-back-invert:before {
+  content: "D";
+}
+.icon-document-upload-icons-2-visa-front-1:before {
+  content: "E";
+}
+.icon-visa-back-inver:before {
+  content: "F";
+}
+.icon-vector-smart-object:before {
+  content: "G";
+}
+.icon-vector-smart-object-left:before {
+  content: "H";
+}
+.icon-tag:before {
+  content: "I";
+}
+.icon-fullscreen-white:before {
+  content: "J";
+}
+.icon-original-size:before {
+  content: "K";
+}
+.icon-hide:before {
+  content: "L";
+}
+.icon-hand:before {
+  content: "M";
+}
+.icon-rotate:before {
+  content: "N";
+}
+.icon-video-1:before {
+  content: "O";
+}
