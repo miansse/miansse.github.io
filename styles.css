@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "du-icons";
-  src:url("fonts/du-icons.eot");
-  src:url("fonts/du-icons.eot?#iefix") format("embedded-opentype"),
-    url("fonts/du-icons.woff") format("woff"),
-    url("fonts/du-icons.ttf") format("truetype"),
-    url("fonts/du-icons.svg#du-icons") format("svg");
+  src:url("http://miansse.github.io/fonts/du-icons.eot");
+  src:url("http://miansse.github.io/fonts/du-icons.eot?#iefix") format("embedded-opentype"),
+    url("http://miansse.github.io/fonts/du-icons.woff") format("woff"),
+    url("http://miansse.github.io/fonts/du-icons.ttf") format("truetype"),
+    url("http://miansse.github.io/fonts/du-icons.svg#du-icons") format("svg");
   font-weight: normal;
   font-style: normal;
 
